@@ -1,4 +1,4 @@
-# Delta Hedging Project
+# Delta Hedging (Risk neutral hedging)
 
 Delta hedging is a dynamic risk management technique designed to neutralize the first-order sensitivity of option positions to changes in the underlying asset price. This repository offers a structured, three-phase investigation into the theoretical and empirical aspects of delta hedging:
 
